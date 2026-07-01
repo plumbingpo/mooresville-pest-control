@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mooresvillepestcontrolco.com/sitemap.xml
